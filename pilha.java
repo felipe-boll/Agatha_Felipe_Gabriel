@@ -17,9 +17,9 @@ public class pilha {
                 String data = input.nextLine();
                 String valores[] = data.split(" ");
 
-                metais.put(valores[0], Double.parseDouble(valores[1]));
+                metais.put(valores[0], Double.parseDouble(valores[1]));                                                                                                                                 
             }
-
+                                                    
             input.close();
 
         } catch(IOException e){
