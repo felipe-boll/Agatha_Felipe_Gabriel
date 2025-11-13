@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class pilha {
+public class agatha_felipe_gabriel {
 
     public static HashMap<String, Double> metais = new HashMap<>();
 
